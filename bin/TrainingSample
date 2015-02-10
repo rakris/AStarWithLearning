@@ -1,0 +1,10 @@
+Rainy:(Yes:No) |     Mood:(Happy:Frustrated)   | Traffic:(Yes:No) | Vehicle:(Car:Bike) | Fagarus:(Yes:No)
+Yes   | Frustrated |    No   |  Car    |  Yes
+Yes   | Frustrated |    Yes  |  Bike   |  No
+No    | Happy      |   No    |  Car    |  Yes
+No    | Frustrated |   No    |  Car    |  Yes
+Yes   | Frustrated |   Yes   |  Car    |  Yes
+Yes   | Happy      |   Yes   | Bike    |  No
+No    | Frustrated |   No    | Bike    |  Yes
+No    | Happy      |   Yes   | Bike    |  Yes
+
